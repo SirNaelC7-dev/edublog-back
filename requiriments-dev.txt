@@ -6,6 +6,4 @@ djangorestframework==3.12.4
 pytz==2021.1
 sqlparse==0.4.1
 whitenoise==5.3.0
--r requirements-dev.txt
-gunicorn
-psycopg2==2.8.6
+
